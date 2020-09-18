@@ -3,7 +3,7 @@
     "description": "shadowsocks-libev with v2ray-plugin on heroku",
     "keywords": ["shadowsocks-libev"],
     "env": {
-        "PASSWORD": {
+        "PASSWORD": 12345678asrm
             "description": "shadowsocks-libev password",
             "value": "ChangeThis"
         },
